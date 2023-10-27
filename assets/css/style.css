@@ -1,0 +1,31 @@
+.card-body ul li  {
+    list-style: none; 
+}
+
+#texto-carrousel {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #000;
+    text-align: left;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 3rem;
+}
+
+#texto-carrousel button {
+    font-size: 1rem;
+    font-weight: 400;
+    color: #000;
+    margin-top: 1rem;
+    border:  none;
+    padding: 0.5rem;
+}
+
+#comment1, #comment2 {
+    display: none;
+    position: absolute;
+    background-color: #f0f0f0;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
